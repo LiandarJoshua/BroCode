@@ -1,0 +1,146 @@
+2025-02-09 02:03:19,093 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.116:5000
+2025-02-09 02:03:19,094 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 02:03:19,118 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 02:03:20,925 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 02:03:20,940 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 02:03:25,343 - werkzeug - INFO - 192.168.68.116 - - [09/Feb/2025 02:03:25] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-09 02:03:25,690 - werkzeug - INFO - 192.168.68.116 - - [09/Feb/2025 02:03:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-09 02:03:38,727 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 02:03:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-09 02:03:38,998 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 02:03:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-09 02:03:45,120 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 02:03:45,122 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 02:03:45,316 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 02:03:46,836 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 02:03:46,845 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 02:04:05,899 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6000
+ * Running on http://192.168.68.116:6000
+2025-02-09 02:04:05,899 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 02:04:05,914 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 02:04:07,545 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 02:04:07,556 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:20:23,379 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.104:5000
+2025-02-09 16:20:23,380 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 16:20:23,393 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:20:24,515 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:20:24,524 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:21:25,485 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:21:25,486 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:21:25,486 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:21:25,692 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:21:25,692 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:21:25,693 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:21:25,852 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:21:25,852 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:21:26,266 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:23:35,666 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.104:5000
+2025-02-09 16:23:35,667 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 16:23:35,676 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:23:36,800 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:23:36,809 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:23:44,428 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:23:44] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-09 16:23:44,604 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:23:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-09 16:24:26,504 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:24:26,506 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:24:26,507 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:24:27,454 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:24:28,679 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:24:28,689 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:25:01,859 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:25:01] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-02-09 16:25:01,943 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:25:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-09 16:25:43,263 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:25:43,266 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:25:43,266 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:25:43,455 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:25:43,456 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:25:43,456 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:25:43,543 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:25:44,781 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:25:44,791 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:25:53,416 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.104:5000
+2025-02-09 16:25:53,417 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 16:25:53,427 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:25:54,617 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:25:54,626 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:26:04,204 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:26:04] "GET /api/health HTTP/1.1" 200 -
+2025-02-09 16:36:34,498 - werkzeug - INFO -  * Detected change in 'C:\\Users\\joshu\\anaconda3\\envs\\cudaenv\\Lib\\subprocess.py', reloading
+2025-02-09 16:36:34,536 - werkzeug - INFO -  * Detected change in 'C:\\Users\\joshu\\anaconda3\\envs\\cudaenv\\Lib\\tempfile.py', reloading
+2025-02-09 16:36:34,557 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:36:34,558 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:36:34,751 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:36:34,751 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:36:34,796 - werkzeug - INFO -  * Detected change in 'C:\\Users\\joshu\\anaconda3\\envs\\cudaenv\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+2025-02-09 16:36:34,819 - werkzeug - INFO -  * Detected change in 'C:\\Users\\joshu\\anaconda3\\envs\\cudaenv\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+2025-02-09 16:36:35,410 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:36:36,619 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:36:36,628 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:36:40,200 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:36:40,200 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:36:40,201 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:36:40,782 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:36:41,960 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:36:41,968 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:44:38,674 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.104:5000
+2025-02-09 16:44:38,675 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 16:44:38,684 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:44:39,829 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:44:39,838 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:45:56,030 - __main__ - INFO - Request: GET http://127.0.0.1:5000/
+2025-02-09 16:45:56,031 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:45:56] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-09 16:46:41,042 - __main__ - INFO - Request: GET http://127.0.0.1:5000/api/health
+2025-02-09 16:46:41,043 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:46:41] "GET /api/health HTTP/1.1" 200 -
+2025-02-09 16:46:41,068 - __main__ - INFO - Request: GET http://127.0.0.1:5000/favicon.ico
+2025-02-09 16:46:41,069 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:46:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-09 16:48:06,845 - __main__ - INFO - Request: GET http://127.0.0.1:5000/api/completion
+2025-02-09 16:48:06,846 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:48:06] "[31m[1mGET /api/completion HTTP/1.1[0m" 405 -
+2025-02-09 16:52:48,214 - __main__ - INFO - Request: POST http://127.0.0.1:5000/api/completion
+2025-02-09 16:52:48,214 - __main__ - INFO - Request JSON: {'currentCode': 'def add(a, b):\\n    return a + b', 'language': 'python3', 'prompt': 'Complete this function to handle subtraction as well.'}
+2025-02-09 16:52:48,637 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-02-09 16:52:48,641 - __main__ - ERROR - Error in completion endpoint: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2025-02-09 16:52:48,641 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:52:48] "[35m[1mPOST /api/completion HTTP/1.1[0m" 500 -
+2025-02-09 16:53:11,293 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:53:11,293 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:53:11,444 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:54:27,750 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.104:5000
+2025-02-09 16:54:27,750 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-02-09 16:54:27,759 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:54:28,917 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:54:28,926 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:54:34,300 - __main__ - INFO - Request: GET http://127.0.0.1:5000/
+2025-02-09 16:54:34,302 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:54:34] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-09 16:54:38,663 - __main__ - INFO - Request: GET http://127.0.0.1:5000/health
+2025-02-09 16:54:38,663 - werkzeug - INFO - 127.0.0.1 - - [09/Feb/2025 16:54:38] "[33mGET /health HTTP/1.1[0m" 404 -
+2025-02-09 16:54:40,491 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:54:40,491 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:54:41,167 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:54:42,339 - werkzeug - WARNING -  * Debugger is active!
+2025-02-09 16:54:42,348 - werkzeug - INFO -  * Debugger PIN: 957-329-843
+2025-02-09 16:56:55,627 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:56:55,630 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:56:55,631 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:56:55,633 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:56:55,782 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:56:55,783 - werkzeug - INFO -  * Detected change in 'c:\\Users\\joshu\\codecollab\\ai_backend.py', reloading
+2025-02-09 16:56:55,987 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:58:32,392 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:58:45,805 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-02-09 16:58:50,109 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
