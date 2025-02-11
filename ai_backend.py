@@ -6,6 +6,9 @@ from datetime import datetime
 import subprocess
 import tempfile
 import os
+from werkzeug.urls import url_quote
+from werkzeug.utils import quote as url_quote
+
 
 # Initialize Flask app
 app = Flask(__name__)
