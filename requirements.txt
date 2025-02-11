@@ -1,0 +1,10 @@
+flask>=2.2.0
+werkzeug>=2.2.0
+flask_cors
+logging
+subprocess
+tempfile
+os
+datetime
+gunicorn
+@unicorn
