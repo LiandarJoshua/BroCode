@@ -21,7 +21,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Initialize Groq client (Replace with actual API key)
-client = groq.Client(api_key="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")
+client = groq.Client(api_key=GROQ_API_KEY)
 
 # Supported languages
 SUPPORTED_LANGUAGES = {
